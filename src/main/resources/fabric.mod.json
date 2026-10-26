@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "sharedeye",
+  "version": "${version}",
+  "name": "Shared Eye",
+  "description": "Co-op world tools: container ESP, light and amethyst finders, base hints, freecam and a settings menu. Install it on every client in the world.",
+  "authors": ["you and your friend"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["dev.sharedeye.SharedEye"]
+  },
+  "mixins": ["sharedeye.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": "*",
+    "minecraft": "~1.21.1",
+    "java": ">=21"
+  }
+}

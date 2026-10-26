@@ -1,0 +1,10 @@
+{
+  "category.sharedeye": "Shared Eye",
+  "key.sharedeye.menu": "Open menu",
+  "key.sharedeye.containers": "Toggle container ESP",
+  "key.sharedeye.lights": "Toggle light ESP",
+  "key.sharedeye.bases": "Toggle base hints",
+  "key.sharedeye.freecam": "Toggle freecam",
+  "key.sharedeye.hud": "Toggle HUD",
+  "key.sharedeye.rescan": "Force rescan"
+}
